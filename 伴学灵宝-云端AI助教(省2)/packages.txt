@@ -1,0 +1,9 @@
+ffmpeg
+build-essential
+python3-dev
+libgdal-dev
+gdal-bin
+libgl1
+libglib2.0-0
+libsm6
+libxext6
