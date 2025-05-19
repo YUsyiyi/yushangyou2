@@ -1,0 +1,4 @@
+Faker==37.3.0
+numpy==2.2.6
+pandas==2.2.3
+streamlit==1.40.2
